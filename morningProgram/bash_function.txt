@@ -1,0 +1,4 @@
+send () {
+  contact=$1;
+  msg=$2;
+  echo "Sent $msg to $contact";
