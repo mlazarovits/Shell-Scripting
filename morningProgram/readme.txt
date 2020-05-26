@@ -1,4 +1,6 @@
-Have modified your .bash_profile file to append the following function:
+TO USE: run 'python install.py' from the command line.
+
+It will modify your .bash_profile file to append the following function:
 
 ---
 send () {
