@@ -1,5 +1,4 @@
 ## Installation
----
 type `python install.py` from the command line.
 
 It will modify your .bash_profile file to append the following function:
@@ -25,6 +24,5 @@ This also only works if Messages.app is already running, and you have had a prev
 with the person you are trying to send a message to.
 
 ## Usage
----
 type `python run.py "FirstName LastName" [optional] -m "message"`
 where `"FirstName LastName"` are the first and last names of the contact to text as the names appear in your Address Book. If no message is specified, one will be selected from a list of cute messages.
